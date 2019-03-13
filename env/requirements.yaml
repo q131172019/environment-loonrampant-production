@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: nodejs-canary
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.5
+  version: v0.0.6
 - name: voting-app-result-nodejs-stateful
   repository: http://jenkins-x-chartmuseum:8080
   version: v0.0.11
